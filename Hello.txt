@@ -10,3 +10,5 @@ hello again
 hey
 
 hi
+
+hi*2
