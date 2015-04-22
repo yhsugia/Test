@@ -6,3 +6,9 @@ oh oh
 olala
 
 hello again
+
+hey
+
+hi
+
+hi*2
